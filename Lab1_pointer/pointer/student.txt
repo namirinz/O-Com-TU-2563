@@ -1,0 +1,17 @@
+3
+Red 6
+James 3.4
+John 2.1
+Mary 3.0
+Linda 3.9
+David 3.8
+Susan 2.7
+Blue 3
+Nancy 1.8
+Richard 3.4
+Helen 2.8
+Pink 4
+Ken 3.7
+Frank 2.0
+Laura 2.2
+Mark 1.5
